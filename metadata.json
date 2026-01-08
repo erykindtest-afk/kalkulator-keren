@@ -1,0 +1,7 @@
+{
+  "name": "SmartAI Calc",
+  "description": "A futuristic AI-powered calculator that supports natural language solving, scientific calculations, and live voice interactions using Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
